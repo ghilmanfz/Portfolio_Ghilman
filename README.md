@@ -24,7 +24,7 @@ Adapted from [Soumyajit4419]([https://github.com/ghilmanfz/Portfolio](https://gi
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="(https://ghilmanfaza.netlify.app/)" target="_blank">Ghilman Faza</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
