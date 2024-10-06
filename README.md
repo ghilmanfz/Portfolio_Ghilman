@@ -28,12 +28,10 @@ My personal portfolio <a href="(https://ghilmanfaza.netlify.app/)" target="_blan
 
 This project was built using these technologies.
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
+- PHP
+- MYSQL
 - VsCode
-- Vercel
+- XAMPP
 
 ## Features
 
