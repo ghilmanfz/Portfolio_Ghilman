@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio<br/>
-  <a href="https://ghilmanfaza.netlify.app/" target="_blank">Ghilmann Faza</a>
+  <a href="https://ghilmanfaza.netlify.app/" target="_blank">Ghilman Faza</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
