@@ -32,6 +32,7 @@ This project was built using these technologies.
 - MYSQL
 - VsCode
 - XAMPP
+- Javascript
 
 ## Features
 
